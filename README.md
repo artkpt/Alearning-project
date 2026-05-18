@@ -4,7 +4,7 @@
 
 1. สั่ง run container ด้วยคำสั่ง 
 ```
-docker compose up --build
+docker compose up --build -d
 ```
 
 2. เข้าไป init database ผ่าน adonisjs container 
